@@ -1,3 +1,7 @@
+[![Join telegram chat](https://img.shields.io/badge/chat-telegram-blue?style=flat&logo=telegram)](https://t.me/mid8_1c) 
+[![Last release](https://img.shields.io/github/v/release/Evg-lylyk/DC3BoosterISToolkit?include_prereleases&label=last%20release&style=badge)](https://github.com/Evg-lylyk/DC3BoosterISToolkit/releases/latest)
+[![GitHub issues](https://img.shields.io/github/issues-raw/Evg-lylyk/DC3BoosterISToolkit?style=badge)](https://github.com/Evg-lylyk/DC3BoosterISToolkit/issues)
+
 # Data Conversion 3 Booster (Infostart Toolkit)
 
 Расширение для конфигурации Конвертация данных 3, предназначено для увеличения возможностей КД3.
