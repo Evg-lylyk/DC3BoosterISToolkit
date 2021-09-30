@@ -1,4 +1,4 @@
-![Data Conversion 3 Booster](logo_capture_new.png)
+[![Data Conversion 3 Booster](logo_capture_new.png)](https://infostart.ru/public/1499859/)
 
 [![Join telegram chat](https://img.shields.io/badge/chat-telegram-blue?style=flat&logo=telegram)](https://t.me/joinchat/iyi3Tlf_7jNiMmIy) 
 [![Last release](https://img.shields.io/github/v/release/Evg-lylyk/DC3BoosterISToolkit?include_prereleases&label=last%20release&style=badge)](https://github.com/Evg-lylyk/DC3BoosterISToolkit/releases/latest)
