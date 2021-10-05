@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues-raw/Evg-lylyk/DC3BoosterISToolkit?style=badge)](https://github.com/Evg-lylyk/DC3BoosterISToolkit/issues)
 
 Расширение для конфигурации Конвертация данных 3, предназначено для увеличения возможностей КД3.
-На данном этапе идет разработка, тестирование. [Infostart Toolkit](https://infostart.ru/public/1254364/) используется как библиотека т.е. оно тоже устанавливается в конфигурацию (без него работать не будет)
+[Infostart Toolkit](https://infostart.ru/public/1254364/) используется как библиотека т.е. оно тоже устанавливается в конфигурацию (без него работать не будет)
 
 Исходники не публикуются (проект для обратной связи)
 
